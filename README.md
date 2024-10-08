@@ -13,7 +13,7 @@ More exercises:
   - Classes and Objects
   - Dictionaries
 
-3. https://www.w3schools.com/python/
+2. https://www.w3schools.com/python/
   - Python Tutorial
   - Python Modules
   - Python Matplotlib
